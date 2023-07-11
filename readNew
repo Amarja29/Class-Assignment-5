@@ -1,0 +1,4 @@
+def readNew():
+    f=open("C:/Users/h262802/Pycharm/abc.txt",'r')
+
+readNew()
